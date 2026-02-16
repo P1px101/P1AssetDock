@@ -1,0 +1,8 @@
+[
+    {
+        "Name": "FPS Counter",
+        "FileName": "FPSCounter.cs",
+        "Description": "Shows the current FPS in game text",
+        "Version": "1.0.0"
+    }
+]
