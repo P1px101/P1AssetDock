@@ -2,7 +2,13 @@
     {
         "Name": "Scene Tabs",
         "FileName": "SceneTabss.unitypackage",
-        "Description": "Adds a little window where you can see all your scenes, favoutire them and open them with a customisable hotkey.",
+        "Description": "Adds a little window where you can see all your scenes, favoutire them and open them with a customisable hotkey",
         "Version": "1.2.0"
+    },
+    {
+        "Name": "EasyInputs",
+        "FileName": "EasyInputs.unitypackage",
+        "Description": "EasyInputs is a core package to handle VR Inputs",
+        "Version": "1.0.0"
     }
 ]
