@@ -4,5 +4,11 @@
         "FileName": "Hologram_Shader.unitypackage",
         "Description": "A nice hologram shader",
         "Version": "1.0.1"
+    },
+    {
+        "Name": "Pixelator",
+        "FileName": "Pixelator.unitypackage",
+        "Description": "Pixelator, pixelates the whole screen and is customisable ( you need URP for this )",
+        "Version":"1.0.0"
     }
 ]

@@ -1,14 +1,80 @@
 [
     {
-        "Name": "Scene Tabs",
-        "FileName": "SceneTabss.unitypackage",
-        "Description": "Adds a little window where you can see all your scenes, favoutire them and open them with a customisable hotkey",
+        "Name": "Better Elevator Scripts",
+        "FileName": "BetterElevatorScripts.unitypackage",
+        "Description": "Adds a better elevator script with a lot of customisation",
+        "Version": "1.0.0"
+    },
+    {
+        "Name": "Climbing",
+        "FileName": "Climbing.unitypackage",
+        "Description": "Allows you to climb on objects ( only staionsary objects )",
+        "Version": "1.0.0"
+    },
+    {
+        "Name": "Code Computer",
+        "FileName": "Code_Comp.unitypackage",
+        "Description": "Adds a code computer, allowing players to join custom codes",
+        "Version": "1.0.0"
+    },
+    {
+        "Name": "ColorSliders",
+        "FileName": "ColorSliders.unitypackage",
+        "Description": "Adds a new way to change the players color with sliders like from Gorilla Tag ( you have to actually grab them not only just push them )",
         "Version": "1.2.0"
+    },
+    {
+        "Name": "CUPSS",
+        "FileName": "CUPSS - Made By P1vr.unitypackage",
+        "Description": "CUPSS allows you to create a folder and import and export assets from and to any unity project",
+        "Version": "1.0.0"
     },
     {
         "Name": "EasyInputs",
         "FileName": "EasyInputs.unitypackage",
         "Description": "EasyInputs is a core package to handle VR Inputs / Makes it easier to make VR Inputs",
         "Version": "1.0.0"
+    },
+    {
+        "Name": "Horror AI Plus",
+        "FileName": "Horror AI Plus.unitypackage",
+        "Description": "Horror AI Plus is the best horror AI package you can get with A LOT of customisation and features",
+        "Version": "1.0.0"
+    },
+    {
+        "Name": "Laser",
+        "FileName": "Laser.unitypackage",
+        "Description": "You can add lasers to your guns or have laser pointers",
+        "Version": "1.0.0"
+    },
+    {
+        "Name": "Name Computer",
+        "FileName": "Name_Computer.unitypackage",
+        "Description": "Allows players to change their name in game",
+        "Version": "1.0.0"
+    },
+    {
+        "Name": "Scene Tabs",
+        "FileName": "SceneTabss.unitypackage",
+        "Description": "Adds a little window where you can see all your scenes, favoutire them and open them with a customisable hotkey",
+        "Version": "1.2.0"
+    },
+    {
+        "Name": "Screenshotter & Send To Discord",
+        "FileName": "Screenshotter.unitypackage",
+        "Description": "Allows players to take a screenshot, using an image camera which then gets sent to a discord channel",
+        "Version":"1.0.0"
+    },
+    {
+        "Name": "Send Message To Discord",
+        "FileName": "SendMessageBoard.unitypackage",
+        "Description": "Allows players to send messages to a discord channel in game",
+        "Version":"1.0.0"
+    },
+    {
+        "Name": "Computer Tabs",
+        "FileName": "Tabs.unitypackage",
+        "Description": "Allows players to switch to different tabs on a computer so like from Name to Code ( there are 2 options on which script you want to use )",
+        "Version":"1.0.0"
     }
 ]
